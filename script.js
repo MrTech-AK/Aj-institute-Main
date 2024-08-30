@@ -1,10 +1,7 @@
 
-alert(`This is a Portfolio card made by @MrTech-AK(Github) | Akshat Kr.
-
-- Use the Slider is to control the background opacity
-- Click the three dots above the profile pic to toggle visibility of slider. 
-- Follow @Akki_IzPro on Instagram
-- Follow @MrTech-Ak on Github
+alert(`
+This card is made by Akshat..
+Hope You like it 👍 
 [+] Press Ok to Continue.. 
 `);
 
