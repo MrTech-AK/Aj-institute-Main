@@ -1,8 +1,8 @@
 
 alert(`
-This card is made by Akshat..
-Hope You like it 👍 
-[+] Press Ok to Continue.. 
+Welcome to AJ INSTITUTE!
+We're here to support your learning journey with video lessons and resources tailored to your needs. Let's your make learning effective.
+[+] Press Ok to Continue
 `);
 
 const slider = document.querySelector("#opaAdj>input");
